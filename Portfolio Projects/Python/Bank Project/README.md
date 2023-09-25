@@ -3,8 +3,11 @@
 Dataset contains data on the bank's clients.
 
 **Problem description:** recently, the bank has experienced a significant increase in customer churn, threatening its very existence.
+
 **Customer:** Marketing Department - information is needed by the manager who oversees marketing campaigns and works closely with product managers.
+
 **Need to obtain:** effective segmentation of churn customers so that they are homogeneous, highly accurate, and cover the maximum number of problem areas of the bank.
+
 **Research purpose:** analyze the regional bank's customers and identify customer segments that tend to leave the bank.
 
 **The research is conducted in 6 phases:**
